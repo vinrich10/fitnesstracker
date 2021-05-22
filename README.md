@@ -1,4 +1,4 @@
-# fitnesstracker
+# Fitness Tracker
 Track your workouts daily!
 
 
