@@ -4,11 +4,16 @@ Track your workouts daily!
 
 # Installation
 Clone this repo to your local device
+<br>
 Install the necessary dependencies by using command 'npm Install'
+<br>
 Run MongoDB with command `mongo`
+<br>
 Seed the database with `node seeders/seed.js`
+<br>
 Run the local server using `node server.js`
-Finally use localhost:3001 in your browser
+<br>
+Finally use localhost:3001 in your browser.
 
 
 # License
