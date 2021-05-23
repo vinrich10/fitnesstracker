@@ -40,6 +40,6 @@ var workoutSchema = new Schema(
     },
 );
 
-var Workout = mongoose.model("Workout", workoutSchema);
+var Workout = mongoose.model("fitnesstracker", workoutSchema);
 
 module.exports = Workout;
